@@ -18,19 +18,6 @@ This repository contains my Java solutions to LeetCode problems and DSA practice
 
 ---
 
-## Structure
-
-```
-LeetCode-Java-solution/
-│
-├── Arraylist/
-│   └── ContainerWithMostWater.java
-│
-├── Recursion problems/
-│   └── ...
-│
-└── README.md
-```
 
 ---
 
