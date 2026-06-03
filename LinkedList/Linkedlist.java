@@ -8,7 +8,8 @@
 // 7. remove nth node from the end in linkedlist
 // 8. tTwo searching methods :- a. Iterative Search 
 //                              b. Recursive Search 
-// 9. Printing linkelist
+// 9. reverse linkelist
+// 10. Printing linkelist
 
 // Suggestion:- write main function by your own for each and every method return in the code to understand it workinh properly and always use written printll() method to print the linkelist 
 
